@@ -2,7 +2,7 @@
 
 ##  Goal
 
-The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depe
+Using Cupertino and Material Widgets in parallel and providing a different user interface 
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
 
